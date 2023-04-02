@@ -9,7 +9,7 @@ The [**02_Descriptive_Analysis**](https://github.com/TheresaMeier/Consulting_Hyd
 The codes to perform logistic regressions, model evaluation and visualization are all combined in the [**03_Modelling**](https://github.com/TheresaMeier/Consulting_Hydrology/tree/master/Codes/03_Modelling) folder. The ROC-Analysis to obtain an appropriate threshold for prediction is stored in [**04_ROC_Analysis**](https://github.com/TheresaMeier/Consulting_Hydrology/tree/master/Codes/04_ROC_Analysis).
 #### Further Analyses
 In [**05_Clustering**](https://github.com/TheresaMeier/Consulting_Hydrology/tree/master/Codes/05_Clustering) the code to reproduce the K-means clustering is provided, while in [**06_Scenarios**](https://github.com/TheresaMeier/Consulting_Hydrology/tree/master/Codes/06_Scenarios) the R files for performing and visualizing the climate scenario analysis are stored.
-## Documents
+## [Documents](https://github.com/TheresaMeier/Consulting_Hydrology/tree/master/Documents)
 In this folder, the slides for the oral presentation, the final report and the IWSM 4-Pager can be found.
 ## [Models](https://github.com/TheresaMeier/Consulting_Hydrology/tree/master/Models)
 All 1959 models stored as RDS files are provided for each member and each season separately.
